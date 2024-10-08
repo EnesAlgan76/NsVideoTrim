@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="default_icon_size">28dp</dimen>
+    <dimen name="icon_offset">5dp</dimen>
+    <dimen name="center_button_size">24dp</dimen>
+    <!-- VIDEO TRIMMER-->
+    <dimen name="progress_video_line_height">2dp</dimen>
+    <dimen name="frames_video_height">60dip</dimen>
+    <dimen name="text_small">@dimen/_10sdp</dimen>
+    <dimen name="_10sdp">10dp</dimen>
+    <dimen name="_3sdp">3dp</dimen>
+    <dimen name="_5sdp">5dp</dimen>
+    <dimen name="_50sdp">50dp</dimen>
+</resources>
