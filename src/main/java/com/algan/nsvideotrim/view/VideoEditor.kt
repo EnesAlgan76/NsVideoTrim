@@ -377,11 +377,6 @@ class VideoEditor @JvmOverloads constructor(
 
         val filePath = destinationPath
 
-//        val transformation = TransformationRequest.Builder()
-//            .setVideoMimeType(MimeTypes.VIDEO_H264)
-//            .setAudioMimeType(MimeTypes.AUDIO_AAC)
-//            //.setHdrMode()
-//            .build()
         val transformer = androidx.media3.transformer.Transformer.Builder(context)
             .setVideoMimeType(MimeTypes.VIDEO_H264)
             .setAudioMimeType(MimeTypes.AUDIO_AAC)
